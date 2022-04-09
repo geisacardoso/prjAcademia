@@ -1,0 +1,13 @@
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.exe
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.deps.json
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.runtimeconfig.json
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.runtimeconfig.dev.json
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.dll
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\bin\Debug\netcoreapp3.1\prjAcademia.pdb
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.csprojAssemblyReference.cache
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.AssemblyInfoInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.AssemblyInfo.cs
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.dll
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.pdb
+C:\Users\Geisa Cardoso\source\repos\prjAcademia\prjAcademia\obj\Debug\netcoreapp3.1\prjAcademia.genruntimeconfig.cache
